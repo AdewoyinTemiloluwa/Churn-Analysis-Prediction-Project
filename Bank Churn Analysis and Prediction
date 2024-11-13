@@ -1,0 +1,7 @@
+#Bank Churn Analysis and Prediction Project
+
+### Introduction
+Bank churn analysis aims to identify and predict customer attrition within financial institutions. Understanding the factors that lead to customer churn helps banks develop targeted retention strategies, improve customer satisfaction, and enhance profitability. This project leverages a dataset from Kaggle to analyze customer behavior and predict potential churners.
+
+###Data Sources
+The primary dataset usde for this analysis is the "Bank Customer Churn Dataset" 
